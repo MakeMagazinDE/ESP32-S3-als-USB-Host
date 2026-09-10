@@ -4,18 +4,10 @@ Maker Media GmbH
 
 ***
 
-# Projektname
+# ESP32-S3 als USB-Host
 
-## Erklärende Unterzeile (optional)
-
-**Vorspann aus dem Heft**
+**Der ESP32-S3 kann dank seines USB-OTG-Controllers auch als Host arbeiten. Wir zeigen, wie sich damit ein altes USB-Gadget direkt ansteuern lässt und erklären, wie USB-Control-Transfers, HID-Requests und die Host-Bibliothek der ESP-IDF zusammenspielen.**
 
 ![Aufmacherbild aus dem Heft](./doc/Aufmacher.JPG)
 
-## Wer den Aufmacher skalieren muss:
-<img src="./doc/Aufmacher.JPG" width="50%" height="50%">
-
-Hier gibt es !!! ein Template für die README.md in Github. Das Aufmacherbild sowie weitere Doku soll in den Ordner _doc_. Bitte für andere Dateien sinnvolle Ordner anlegen, etwa _src_ oder _cad_.
-ISSUES UND WIKI DEAKTIVIEREN NICHT VERGESSEN.
-
-Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe x/yy ab Seite z](https://www.heise.de/select/make/xxx)**.
+Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 5/26 ab Seite 106](https://www.heise.de/select/make/2026/5)**.
